@@ -1,7 +1,7 @@
-[![Picsart-24-06-07-05-14-22-511.jpg](https://i.postimg.cc/DwL7Hzbs/20250812-103108.jpg)](https://postimg.cc/HcpRKCLL)
+[![Picsart-24-06-07-05-14-22-511.jpg](https://i.postimg.cc/MKn2F7TK/IMG-20250904-WA0013.jpg)](https://postimg.cc/HcpRKCLL)
 
 <p align="center">
-<a href="https://wa.me/51929838430"><img title="Author" src="https://img.shields.io/badge/NaufraZapp-black?style=for-the-badge&logo=whatsApp"></a>
+<a href="https://wa.me/5219241560311"><img title="Author" src="https://img.shields.io/badge/NaufraZapp-black?style=for-the-badge&logo=whatsApp"></a>
 <p/>
 
 # 🔥INSTALACIÓN POR TERMUX.
