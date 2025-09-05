@@ -47,11 +47,11 @@ Si después de instalar el bot en Termux se detiene (pantalla en blanco, pérdid
 
 [![Picsart-24-06-07-14-00-43-215.jpg](https://i.postimg.cc/GtWnCysS/IMG-20250810-WA0014-2.jpg)](https://postimg.cc/JGhc3g0J)
 
-[![WhatsApp](https://img.shields.io/badge/mi_numero-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/529241560311) <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/master/accesos/iconos/whatsapp.gif" width="30">
+[![WhatsApp](https://img.shields.io/badge/mi_numero-529241560311f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/529241560311) <img src="https://raw.gi.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/master/accesos/iconos/whatsapp.gif" width="30">
 
-[![WhatsApp](https://img.shields.io/badge/Canal_de_WhatsApp-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vaz3WoQ6RGJPJQcMXQ14) <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/master/accesos/iconos/whatsapp.gif" width="30">
+[![WhatsApp](https://img.shields.io/badge/Canal_de_WhatsApp-00802f?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa) <img src="https://raw.githubusercontent.com/Bots-WhatsApp-OFC/Bots-WhatsApp-OFC/master/accesos/iconos/whatsapp.gif" width="30">
 
-[![YouTube](https://img.shields.io/badge/Canal_de_Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@naufrazapp_bots?si=iZbDpSK_pqT9uXiW)
+[![YouTube](https://img.shields.io/badge/Canal_de_Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@manuelyt22?si=GX859upnaNcoMwTJ)
 
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@naufraofficial?_t=ZS-8zEBAbPqjXE&_r=1)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&log)
 
